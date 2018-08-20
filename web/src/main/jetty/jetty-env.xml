@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="ISO-8859-1"?>
+<!DOCTYPE Configure PUBLIC "-//Mort Bay Consulting//DTD Configure//EN" "http://www.eclipse.org/jetty/configure.dtd">
+<Configure class="org.eclipse.jetty.webapp.WebAppContext">
+	<New id="jndiDatasource" class="org.eclipse.jetty.plus.jndi.Resource">
+		<Arg></Arg>
+		<Arg>jdbc/project-datasource</Arg>
+		<Arg>
+			<New class="oracle.jdbc.pool.OracleDataSource">
+				<Set name="DriverType">thin</Set>
+				<Set name="URL">jdbc:oracle:thin:@localhost:1521:xe</Set>
+				<Set name="User">carsharing</Set>
+				<Set name="Password">qwerty</Set>
+			</New>
+		</Arg>
+	</New>
+</Configure>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE tiles-definitions PUBLIC  
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"  
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+
+	<definition name="index" extends="MainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/index.jsp" />
+	</definition>
+
+	<definition name="home" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/home.jsp" />
+	</definition>
+
+	<definition name="login" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/login.jsp" />
+	</definition>
+
+	<definition name="car.list" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/car/list.jsp" />
+	</definition>
+
+	<definition name="car.edit" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/car/form.jsp" />
+	</definition>
+
+	<definition name="car.info" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/car/info.jsp" />
+	</definition>
+
+	<definition name="user.list" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/user/list.jsp" />
+	</definition>
+
+	<definition name="user.edit" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/user/form.jsp" />
+	</definition>
+
+</tiles-definitions>

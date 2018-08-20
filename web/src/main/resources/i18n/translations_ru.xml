@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="body.welcome.message">Добро пожаловать!</entry>
+	<entry key="header.login">Логин</entry>
+	<entry key="header.register">Регистрация</entry>
+	<entry key="nav.home">Домашняя страница</entry>
+	<entry key="footer.login">Логин</entry>
+	<entry key="footer.password">Пароль</entry>
+	<entry key="footer.role">Роль</entry>
+	<entry key="footer.admin">Администратор</entry>
+	<entry key="footer.user">Пользователь</entry>
+	<entry key="footer.auth">Информация для авторизации</entry>
+	<entry key="footer.copyright">© 2018 Ломакин Всеволод</entry>
+	<entry key="info.header">Подробная информация</entry>
+	<entry key="info.brand">Производитель</entry>
+	<entry key="info.model">Модель</entry>
+	<entry key="info.govNumber">Гос. номер</entry>
+	<entry key="info.run">Пробег</entry>
+</properties>
