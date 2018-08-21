@@ -15,8 +15,8 @@
 		base-package="com.by.lomakin.carsharing.web.security" />
 
 	<http>
-		<!--<intercept-url pattern="/user**"
-			access="hasRole('ROLE_ADMIN')" />-->
+		<intercept-url pattern="/carcatalog**"
+			access="hasRole('ROLE_ADMIN')" />
 
 
 		<form-login login-page="/login" default-target-url="/"

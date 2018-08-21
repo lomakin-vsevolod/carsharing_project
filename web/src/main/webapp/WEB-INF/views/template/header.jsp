@@ -29,6 +29,7 @@
 				<sec:authorize access="hasRole('ROLE_ADMIN')">
 					<li><a href="${pageContext.request.contextPath}/car">Cars</a></li>
 					<li><a href="${pageContext.request.contextPath}/user">Users</a></li>
+					<li><a href="${pageContext.request.contextPath}/carcatalog">Catalog</a></li>
 				</sec:authorize>
 				<sec:authorize access="hasRole('ROLE_USER')">
                 	<li><a href="${pageContext.request.contextPath}/car">Cars</a></li>

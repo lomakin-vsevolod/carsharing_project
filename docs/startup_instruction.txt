@@ -1,0 +1,31 @@
+Среда разработки:IntelliJ IDEA Community Edition
+https://www.jetbrains.com/idea/download/#section=windows
+
+Установка JDK,JRE:
+Ссылка на скачку JDK https://www.oracle.com/technetwork/java/javase/downloads/2133151
+Ссылка на скачку JRE https://www.oracle.com/technetwork/java/javase/downloads/2133155
+Прописать системные переменные http://www.fandroid.info/ustanovka-jdk-java-development-kit/
+
+Установка maven:
+http://www.apache-maven.ru/install.html
+
+Установка oracle:
+Установить oracle, задать пароль для пользователя SYSTEM
+https://www.oracle.com/technetwork/database/express-edition/downloads/index-083047.html
+Скачать Sql Developer для подключения в базе данных
+https://www.oracle.com/technetwork/developer-tools/apex/index-098778.html
+
+Подключиться к базе данных под пользователем SYSTEM и создать пользователя, выполнить скрипт в файле create_user.sql
+Подключиться к базе данных под пользователем carsharing с паролем qwerty, создать таблицы выполнив скрипт в файле Carsharing_oracle_create.sql
+
+Открыть с помощью idea проект, необходимо установить драйвер для подключения к базе данных oracle.
+http://www.mkyong.com/maven/how-to-add-oracle-jdbc-driver-in-your-maven-local-repository/
+http://www.oracle.com/technetwork/database/features/jdbc/default-2280470.html
+Скачать ojdbc7.jar и поместить файл в C:\
+Открыть терминал в idea и выполнить команду mvn install:install-file -Dfile=C:\\ojdbc7.jar -DgroupId=com.oracle -DartifactId=ojdbc7 -Dversion=12.1.0 -Dpackaging=jar
+
+Выполнить команду mvn clean install -DskipTests для сборки проекта
+Запустить JettyStart.java в папке /web/src/test/java/com.by.lomakin.carsharing.web/JettyStart.java для запуска проекта
+Открыть браузер перейти по ссылке http://localhost:8081/carsharing/
+
+При создании пользователя в поле роль прописать роль пользователя, ROLE_ADMIN или ROLE_USER

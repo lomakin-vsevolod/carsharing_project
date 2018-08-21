@@ -124,10 +124,59 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-285303361">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="29" />
+          <entry key="jsp" value="6" />
+          <entry key="oracle help" value="2" />
+          <entry key="sql" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="29" />
+          <entry key="JSP" value="6" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="36" />
+          <entry key="java" value="1087" />
+          <entry key="jsp" value="343" />
+          <entry key="oracle help" value="4" />
+          <entry key="txt" value="1269" />
+          <entry key="xml" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1087" />
+          <entry key="JSP" value="343" />
+          <entry key="PLAIN_TEXT" value="1309" />
+          <entry key="XML" value="60" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/src/test/java/com/by/lomakin/carsharing/web/JettyStart.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
@@ -135,6 +184,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/startup_instruction.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -154,30 +212,16 @@
       <find>&quot;</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dao-orm-impl/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/IBaseEntity.java" />
-        <option value="$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/UserDataDaoImpl.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/aop/MethodExecutionTimeProfiler.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/IUserDataService.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/UserDataServiceImpl.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/dto/UserDataDTO.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/dao-api/pom.xml" />
-        <option value="$PROJECT_DIR$/dao-orm-impl/pom.xml" />
-        <option value="$PROJECT_DIR$/docs/oracle help" />
-        <option value="$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/model/BaseEntity.java" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/webapp-context.xml" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/security/CustomAuthenticationProvider.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/docs/view.txt" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/template/footer.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/web/src/main/resources/security-config.xml" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/user/list.jsp" />
         <option value="$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/IUserData.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/dto/UserDTO.java" />
@@ -196,8 +240,6 @@
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/ProductFromDtoConverter.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarFromDtoConverter.java" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarToDtoConverter.java" />
-        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/tiles-definitions/views.xml" />
-        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/template/header.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/car/form.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/tag/SortLink.java" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/my-tags.tld" />
@@ -206,8 +248,27 @@
         <option value="$PROJECT_DIR$/web/src/main/resources/i18n/translations_ru.xml" />
         <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/car/info.jsp" />
         <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/CarController.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/CarServiceImpl.java" />
         <option value="$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/CarDaoImpl.java" />
+        <option value="$PROJECT_DIR$/docs/oracle help" />
+        <option value="$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/filter/CarCatalogFilter.java" />
+        <option value="$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/ICarCatalog.java" />
+        <option value="$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/ICarCatalogDao.java" />
+        <option value="$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/model/CarCatalog.java" />
+        <option value="$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/CarCatalogDaoImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/ICarCatalogService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/CarServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/CarCatalogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/dto/CarCatalogDTO.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CategoryFromDtoConverter.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarCatalogToDtoConverter.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarCatalogFromDtoConverter.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/CarCatalogController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/tiles-definitions/views.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/carcatalog/form.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/carcatalog/list.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/security-config.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/template/header.jsp" />
+        <option value="$PROJECT_DIR$/docs/startup_instruction.txt" />
       </list>
     </option>
   </component>
@@ -233,13 +294,14 @@
     <option name="width" value="1964" />
     <option name="height" value="995" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,45 +309,80 @@
               <item name="carsharing" type="b2602c69:ProjectViewProjectNode" />
               <item name="carsharing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="carsharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carsharing" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carsharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carsharing" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carsharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carsharing" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carsharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carsharing" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carsharing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carsharing" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534794015001" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534870801478" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\carsharing\web\src\main\webapp\WEB-INF\views\carcatalog" />
+      <recent name="C:\GitHub\carsharing\web\src\main\java\com\by\lomakin\carsharing\web\converter" />
+      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\webapp\WEB-INF\views\car" />
+      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\java\com\by\lomakin\carsharing\web\converter" />
+      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.by.lomakin.carsharing.web.controller" />
+      <recent name="com.by.lomakin.carsharing.web.dto" />
+      <recent name="com.by.lomakin.carsharing.service.impl" />
+      <recent name="com.by.lomakin.carsharing.service" />
+      <recent name="com.by.lomakin.carsharing.dao.orm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\23699\IdeaProjects\carsharing\dao-api\src\main" />
       <recent name="C:\Users\23699\IdeaProjects\carsharing\dao-api\src" />
       <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\java\com\by\lomakin\carsharing\web" />
       <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\webapp\WEB-INF\views" />
       <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\webapp" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.by.lomakin.carsharing.web.tag" />
-      <recent name="com.by.lomakin.carsharing.web.controller" />
-      <recent name="com.by.lomakin.carsharing.service.impl" />
-      <recent name="com.by.lomakin.carsharing.service" />
-      <recent name="com.by.lomakin.carsharing.dao.orm" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\webapp\WEB-INF\views\car" />
-      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\java\com\by\lomakin\carsharing\web\converter" />
-      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\webapp\WEB-INF\views" />
-      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\java\com\by\lomakin\carsharing\web" />
-      <recent name="C:\Users\Nuclear\IdeaProjects\carsharing\web\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,7 +442,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28696343" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29213035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,14 +451,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32839313" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32683307" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299532" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32839313" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32683307" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -386,169 +483,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/security/ExtendedUsernamePasswordAuthenticationToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/security/AuthHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/user/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/BaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/IBaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/IUserDataDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/IUserDataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/UserDataServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/UserToDtoConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/user/form.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="80" column="108" selection-start-line="80" selection-start-column="108" selection-end-line="80" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/filter/UserDataFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/IUserData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/Carsharing_oracle_create.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/model/BaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/model/UserData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/AbstractDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/UserDataDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/ICarDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/util/CustomImprovedNamingStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/util/CustomImprovedNamingStrategy.java" />
     <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/ICarService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -560,16 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1785">
           <caret line="124" column="30" lean-forward="true" selection-start-line="124" selection-start-column="30" selection-end-line="124" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarFromDtoConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -604,27 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/tiles-definitions/views.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/template/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/car/form.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/tag/SortLink.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -643,20 +547,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/resources/i18n/translations_ru.xml">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/resources/i18n/translations_en.xml">
+      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="37" selection-start-line="15" selection-start-column="4" selection-end-line="18" selection-end-column="37" />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/car/info.jsp">
       <provider selected="true" editor-type-id="text-editor">
@@ -669,13 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="119" lean-forward="true" selection-start-line="29" selection-start-column="119" selection-end-line="29" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/security-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -693,36 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/CarController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/dto/CarDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/CarServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,19 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/CarDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="99" column="5" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,10 +607,217 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/Carsharing_oracle_create.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="true" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/filter/CarCatalogFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/ICar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/model/ICarCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/ICarDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-api/src/main/java/com/by/lomakin/carsharing/dao/api/ICarCatalogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/model/CarCatalog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-orm-impl/target/classes/com/by/lomakin/carsharing/dao/orm/model/UserData_.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/UserDataDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/CarDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="90" column="23" lean-forward="true" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao-orm-impl/src/main/java/com/by/lomakin/carsharing/dao/orm/CarCatalogDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/ICarCatalogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/UserDataServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="47" column="44" lean-forward="true" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/CarServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/by/lomakin/carsharing/service/impl/CarCatalogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/dto/CarDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarCatalogToDtoConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarFromDtoConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/converter/CarCatalogFromDtoConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/tiles-definitions/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/car/form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/carcatalog/form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/security-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/template/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/dto/CarCatalogDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/views/carcatalog/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/by/lomakin/carsharing/web/controller/CarCatalogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/create_user.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/oracle help">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="120" />
         </state>
       </provider>
     </entry>
@@ -767,6 +828,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/startup_instruction.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -822,12 +890,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>service</last-edited>
+          <last-edited>carsharing</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

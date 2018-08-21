@@ -40,7 +40,7 @@ public class CarServiceImpl implements ICarService {
     public void save(final ICar entity) {
         if (entity.getId() == null) {
             dao.insert(entity);
-            LOGGER.info("new saved product: {}", entity);
+            LOGGER.info("new saved car: {}", entity);
         } else {
             dao.update(entity);
         }
@@ -54,7 +54,7 @@ public class CarServiceImpl implements ICarService {
 
     @Override
     public void deleteAll() {
-        LOGGER.info("delete all product entities {}");
+        LOGGER.info("delete all cars entities {}");
         dao.deleteAll();
     }
 

@@ -34,6 +34,16 @@
 					   value="/WEB-INF/views/car/info.jsp" />
 	</definition>
 
+	<definition name="carcatalog.list" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/carcatalog/list.jsp" />
+	</definition>
+
+	<definition name="carcatalog.edit" extends="MainTemplate">
+		<put-attribute name="body"
+					   value="/WEB-INF/views/carcatalog/form.jsp" />
+	</definition>
+
 	<definition name="user.list" extends="MainTemplate">
 		<put-attribute name="body"
 					   value="/WEB-INF/views/user/list.jsp" />
